@@ -4,6 +4,12 @@
 
 `python3 fscanOutput.py result.txt`
 
+## 关于更新V4.0版本
+
+该脚本旧版本已无法兼容最新版本，v4.0 版本能兼容最新版本 fscan。
+
+
+
 ## 关于更新V3.0版本
 
 1、优化netbios和netinfo的提取规则，将其分别提取至不同的sheetList中，避免漏匹配的问题。
